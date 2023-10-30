@@ -1,0 +1,156 @@
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\appsettings.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.staticwebassets.runtime.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.exe
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.deps.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.runtimeconfig.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.pdb
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.AssemblyReference.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.AssemblyInfoInputs.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.AssemblyInfo.cs
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.CoreCompileInputs.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.RazorAssemblyInfo.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.RazorAssemblyInfo.cs
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.bConnectorTest.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.build.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\bundle\bConnectorTest.App.styles.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\projectbundle\bConnectorTest.App.bundle.scp.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\refint\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.pdb
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.genruntimeconfig.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\ref\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\AdaptiveCards.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.CopyComplete
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\New folder\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\appsettings.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.staticwebassets.runtime.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.exe
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.deps.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.runtimeconfig.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\bConnectorTest.App.pdb
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\AdaptiveCards.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.AssemblyReference.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.AssemblyInfoInputs.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.AssemblyInfo.cs
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.CoreCompileInputs.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.RazorAssemblyInfo.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.RazorAssemblyInfo.cs
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.bConnectorTest.App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.build.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bConnectorTest.App.props
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\bundle\bConnectorTest.App.styles.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\scopedcss\projectbundle\bConnectorTest.App.bundle.scp.css
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.csproj.CopyComplete
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\refint\bConnectorTest.App.dll
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.pdb
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\bConnectorTest.App.genruntimeconfig.cache
+C:\Users\bizzn\OneDrive - Bizzntek Ltd\Nurul Amin\Personal-folder\github\bConnector\src\bConnectorWeb.API\bConnectorTest.App\obj\Debug\net7.0\ref\bConnectorTest.App.dll
